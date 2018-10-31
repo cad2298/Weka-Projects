@@ -1,0 +1,9 @@
+PackageName=AverageModeClassifierVersion=1.0.0
+Date=2018-10-31
+Title=Average/Mode ClassifierCategory=Preprocessing
+Author=Carlos Aunión Domínguez <caundom@alu.upo.es>
+Maintainer=Carlos Aunión Domínguez <caundom@alu.upo.es>
+License=GPL 2.0|Mozilla
+Description=Classifies the instances with numerical class as an average of them. If class is nominal, as the mode of them.PackageURL=https://www.dropbox.com/s/75tiskuoyf7z2kd/ownknntest.zip?dl=0
+URL=http://missintimo-lenceria.com/docs/gualbe/paper-xnn.pdf
+Depends=weka (>=3.7.1)
